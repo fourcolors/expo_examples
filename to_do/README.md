@@ -1,4 +1,5 @@
-### ToDo with GraphQL (Graph.cool)
+### Warning this is a WIP and not yet finished
+### ToDo with GraphQL
 
 This todo app uses graph.cool
 
@@ -13,3 +14,4 @@ show up after you yarn start the project.
 
 ## What you can learn from this example
 - GraphQL integration with graph.cool and Apollo
+- Migrations with graph.cool
