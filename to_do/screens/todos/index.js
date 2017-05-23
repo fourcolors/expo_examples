@@ -15,7 +15,7 @@ class ToDos extends Component {
     return (
       <View style = {styles.toDoItem}>
         <RoundCheckbox 
-          size = {24}
+          size = {36}
           checked = {toDoItem.completed}
           onValueChange = {(newValue) => {console.log(newValue)}}
         />
