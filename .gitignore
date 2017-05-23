@@ -1,3 +1,5 @@
 ./node_modules
 */**/node_modules
 to_do/node_modules
+
+to_do/\.expo/
